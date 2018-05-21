@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "product",
+    "script"      : "./bin/www",
+    "args"        : "start",
+    "watch"       : false
+  }]
+}
